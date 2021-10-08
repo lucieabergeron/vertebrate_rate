@@ -10,10 +10,12 @@ The raw sequences can be found on NCBI under the project number PRJNA767781.
 # Analysis
 
 0. germline_mutation_rate discribe the additional step that has been conducted to produce the per generation and yearly rates.
-1. 
+1. phylogeny contains the analysis conducted to create the UCE phylogeny and to calibrate the tree
 
 # Requirements
 
  - samtools 1.2
  - bcftools 1.2
+ - R 3.5.1
+
 
