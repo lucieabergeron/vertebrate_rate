@@ -1,0 +1,8 @@
+# Import data with per generation rate per samples, parental ages, and contribution
+data=read.csv("data_rate.txt", sep="\t")
+
+# For data with parental age:
+mu_yearly = data$mu/(((data$father_age*data$father_contr)+data$mother_age)/(data$father_contr+1))
+
+# For data without parental age:
+mu_yearly = data$mu/data$generation_time
