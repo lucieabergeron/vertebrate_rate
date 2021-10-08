@@ -1,3 +1,4 @@
+# Estimating a germline mutation rate
 The germline mutation rate analysis from raw sequenced to DNMs detection uses the same method than https://github.com/lucieabergeron/germline_mutation_rate.
 
 Additional filters on the false positive calls was conducted on the candidate DNMs.
