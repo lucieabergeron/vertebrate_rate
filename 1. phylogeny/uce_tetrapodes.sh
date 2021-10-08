@@ -75,21 +75,4 @@ phyluce_align_get_only_loci_with_min_taxa \
     --cores 6 \
     --log-path results/tetrapods/taxon-sets/all/log
     
-# Create a 80% complete matrix
-phyluce_align_get_only_loci_with_min_taxa \
-    --alignments results/tetrapods/taxon-sets/all/mafft-nexus-internal-trimmed-clean \
-    --taxa 74 \
-    --percent 0.80 \
-    --output results/tetrapods/taxon-sets/all/mafft-nexus-internal-trimmed-clean-80p \
-    --cores 6 \
-    --log-path results/tetrapods/taxon-sets/all/log
-    
-# Create a 90% complete matrix
-phyluce_align_get_only_loci_with_min_taxa \
-    --alignments results/tetrapods/taxon-sets/all/mafft-nexus-internal-trimmed-clean \
-    --taxa 74 \
-    --percent 0.90 \
-    --output results/tetrapods/taxon-sets/all/mafft-nexus-internal-trimmed-clean-90p \
-    --cores 6 \
-    --log-path results/tetrapods/taxon-sets/all/log
 
