@@ -9,3 +9,4 @@
 # Effective population size
 
  - psmc.py --> estimate an effective population size for all species. 
+ - psmc_plot.py --> uses plot_results_all.py and estime and plot the effective population size
