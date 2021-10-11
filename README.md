@@ -12,6 +12,7 @@ The raw sequences can be found on NCBI under the project number PRJNA767781.
 0. germline_mutation_rate discribe the additional step that has been conducted to produce the per generation and yearly rates.
 1. phylogeny contains the analysis conducted to create the UCE phylogeny and to calibrate the tree.
 2. mutations_analysis contains the script to analysis the DNM characteristics such as the mutational spectrum, the sex bias or the impact of the parental ages.
+3. other_analyses contains the analyses for heterosigosity, nucleotide diversity and effective population size.
 
 # Requirements
 
@@ -21,5 +22,6 @@ The raw sequences can be found on NCBI under the project number PRJNA767781.
  - R 3.5.1
  - IQTREE
  - Phyluce
+ - ANGSD 0.920
 
 
