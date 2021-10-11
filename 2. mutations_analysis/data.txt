@@ -1,0 +1,158 @@
+species_name    Group   order   dn      sample  unassigned      paternal        maternal        assigned        prop_pat  prop_mat        paternal_tot    maternal_tot
+Ailurus_fulgens Mammal  Carnivora       48      r_panda_3a      36      12      0       12      1       0       2297      2406
+Ailurus_fulgens Mammal  Carnivora       55      r_panda_3b      34      18      3       21      0.8571428571428570.142857142857143        2215    2315
+Amphiprion_ocellaris    Fish    Perciformes     7       nemo_3a 2       1       4       5       0.2     0.8     2077      2030
+Amphiprion_ocellaris    Fish    Perciformes     11      nemo_3b 5       5       1       6       0.8333333333333330.166666666666667        2208    2089
+Aptenodytes_forsteri    Bird    Sphenisciformes 29      em.peng_3       7       19      3       22      0.863636363636364 0.136363636363636       2006    3784
+Ara_glaucogularis       Bird    Psittaciformes  19      macaw_3 19      0       0       0       NaN     NaN     367       1286
+Arctocephalus_gazella   Mammal  Carnivora       23      seal_3b 14      7       2       9       0.7777777777777780.222222222222222        6637    6717
+Arctocephalus_gazella   Mammal  Carnivora       30      seal_3c 16      10      4       14      0.7142857142857140.285714285714286        8019    7352
+Arctocephalus_gazella   Mammal  Carnivora       18      seal_3e 12      3       3       6       0.5     0.5     7288      7627
+Arctocephalus_gazella   Mammal  Carnivora       22      seal_3f 8       10      4       14      0.7142857142857140.285714285714286        7166    7645
+Betta_splendens Fish    Anabantiformes  2       betta_3a        1       0       1       1       0       1       1354      1646
+Betta_splendens Fish    Anabantiformes  6       betta_3b        2       2       2       4       0.5     0.5     1403      1523
+Betta_splendens Fish    Anabantiformes  2       betta_3c        2       0       0       0       NaN     NaN     1523      1620
+Bubo_scandiacus Bird    Strigiformes    2       owl_3   1       1       0       1       1       0       689     688
+Callithrix_jacchus      Mammal  Primate 34      marmo_3a        15      5       14      19      0.2631578947368420.736842105263158        3565    4651
+Callithrix_jacchus      Mammal  Primate 59      marmo_3b        34      10      15      25      0.4     0.6     3225      4241
+Callithrix_jacchus      Mammal  Primate 16      marmo_3c        8       0       8       8       0       1       3407      4235
+Callithrix_jacchus      Mammal  Primate 14      marmo_3d        6       2       6       8       0.25    0.75    3288      4196
+Callithrix_jacchus      Mammal  Primate 19      marmo_3e        4       1       14      15      0.06666666666666670.933333333333333       3911    5021
+Callithrix_jacchus      Mammal  Primate 13      marmo_3f        2       0       11      11      0       1       4781      5915
+Canis_lupus_familiaris  Mammal  Carnivora       30      dog_3a  21      8       1       9       0.8888888888888890.111111111111111        3166    3150
+Canis_lupus_familiaris  Mammal  Carnivora       31      dog_3b  25      5       1       6       0.8333333333333330.166666666666667        2893    2928
+Canis_lupus_familiaris  Mammal  Carnivora       37      dog_3c  30      5       2       7       0.7142857142857140.285714285714286        2803    2905
+Canis_lupus_familiaris  Mammal  Carnivora       23      dog_3d  18      4       1       5       0.8     0.2     3083      3001
+Capra_hircus    Mammal  Artiodactyla    20      goat_3a 8       10      2       12      0.833333333333333       0.166666666666667 2974    3082
+Capra_hircus    Mammal  Artiodactyla    27      goat_3c.1       21      2       4       6       0.3333333333333330.666666666666667        2297    2397
+Capra_hircus    Mammal  Artiodactyla    20      goat_3c.2       12      4       4       8       0.5     0.5     2325      2413
+Cavia_aperea    Mammal  Rodentia        24      B.g.pig_3a.1    4       10      10      20      0.5     0.5     17921     17628
+Cavia_aperea    Mammal  Rodentia        14      B.g.pig_3a.2    2       10      2       12      0.8333333333333330.166666666666667        18189   17689
+Cavia_aperea    Mammal  Rodentia        12      B.g.pig_3b.1    4       7       1       8       0.875   0.125   17137     16782
+Cavia_aperea    Mammal  Rodentia        15      B.g.pig_3b.2    5       7       3       10      0.7     0.3     17041     16649
+Cavia_aperea    Mammal  Rodentia        10      B.g.pig_3c.1    1       4       5       9       0.4444444444444440.555555555555556        18187   17495
+Cavia_aperea    Mammal  Rodentia        16      B.g.pig_3c.2    2       11      3       14      0.7857142857142860.214285714285714        17318   16634
+Ceratotherium_simum_simum       Mammal  Perissodactyla  40      rhino_3 33      7       0       7       1       01703     1679
+Cervus_elaphus_yarkandensis     Mammal  Artiodactyla    11      red.d_3 5       5       1       6       0.833333333333333 0.166666666666667       4500    4600
+Cervus_nippon   Mammal  Artiodactyla    18      sika_3  4       12      2       14      0.857142857142857       0.142857142857143 4397    4143
+Chauna_torquata Bird    Anseriformes    14      scream_3        3       8       3       11      0.7272727272727270.272727272727273        2359    2307
+Chrysemys_picta Turtle  Testudines      14      turtle_3b1      4       7       3       10      0.7     0.3     11943     12026
+Chrysemys_picta Turtle  Testudines      22      turtle_3b2      3       10      9       19      0.5263157894736840.473684210526316        11656   11989
+Chrysemys_picta Turtle  Testudines      20      turtle_3b3      4       8       8       16      0.5     0.5     12128     12155
+Chrysemys_picta Turtle  Testudines      14      turtle_3c1      4       6       4       10      0.6     0.4     19841     21734
+Chrysemys_picta Turtle  Testudines      13      turtle_3c2      4       4       5       9       0.4444444444444440.555555555555556        20300   22355
+Chrysemys_picta Turtle  Testudines      18      turtle_3c3      1       14      3       17      0.8235294117647060.176470588235294        28992   31069
+Chrysemys_picta Turtle  Testudines      10      turtle_3d1      3       6       1       7       0.8571428571428570.142857142857143        13926   14491
+Chrysemys_picta Turtle  Testudines      11      turtle_3d2      1       6       4       10      0.6     0.4     9092      9329
+Chrysemys_picta Turtle  Testudines      16      turtle_3d3      7       6       3       9       0.6666666666666670.333333333333333        8808    9389
+Coleonyx_brevis Reptile Squamata        21      tex.gek_3       13      4       4       8       0.5     0.5     1566      2352
+Coturnix_japonica       Bird    Galliformes     3       quails_3a       0       2       1       3       0.666666666666667 0.333333333333333       2233    2237
+Coturnix_japonica       Bird    Galliformes     7       quails_3b       0       4       3       7       0.571428571428571 0.428571428571429       2207    2201
+Coturnix_japonica       Bird    Galliformes     8       quails_3e       3       3       2       5       0.6     0.4       2277    2146
+Coturnix_japonica       Bird    Galliformes     11      quails_3f       4       4       3       7       0.571428571428571 0.428571428571429       2254    2286
+Coturnix_japonica       Bird    Galliformes     6       quails_3g       2       2       2       4       0.5     0.5       2290    2378
+Coturnix_japonica       Bird    Galliformes     9       quails_3h       2       7       0       7       1       02213     2332
+Coturnix_japonica       Bird    Galliformes     10      quails_3i       5       4       1       5       0.8     0.2       2209    2399
+Coturnix_japonica       Bird    Galliformes     11      quails_3j       6       4       1       5       0.8     0.2       2236    2197
+Cyanistes_caeruleus     Bird    Passeriformes   6       b.tits_3a       1       5       0       5       1       01944     2768
+Cyanistes_caeruleus     Bird    Passeriformes   11      b.tits_3b       4       6       1       7       0.857142857142857 0.142857142857143       2134    2198
+Cyanistes_caeruleus     Bird    Passeriformes   9       b.tits_3c       2       6       1       7       0.857142857142857 0.142857142857143       2111    2971
+Cynoglossus_semilaevis  Fish    Pleuronectiformes       6       sole_3a 2       3       1       4       0.75    0.25      5541    5379
+Cynoglossus_semilaevis  Fish    Pleuronectiformes       5       sole_3b 2       2       1       3       0.666666666666667 0.333333333333333       5345    5354
+Cynoglossus_semilaevis  Fish    Pleuronectiformes       6       sole_3c 0       1       5       6       0.166666666666667 0.833333333333333       5519    5253
+Cyprinus_carpio Fish    Cypriniformes   3       carp_3  0       1       2       3       0.333333333333333       0.666666666666667 5825    6008
+Eublepharis_macularius  Reptile Squamata        18      leo.gek_3       7       4       7       11      0.363636363636364 0.636363636363636       4521    4498
+Felis_catus     Mammal  Carnivora       14      cat_3   4       7       3       10      0.7     0.3     10589   10450
+Fukomys_damarensis      Mammal  Rodentia        22      mole.rat_3a     15      5       2       7       0.714285714285714 0.285714285714286       2270    2091
+Fukomys_damarensis      Mammal  Rodentia        27      mole.rat_3b     19      5       3       8       0.625   0.375     2143    2135
+Fukomys_damarensis      Mammal  Rodentia        35      mole.rat_3c     25      9       1       10      0.9     0.1       2135    2027
+Fukomys_damarensis      Mammal  Rodentia        23      mole.rat_3d     11      7       5       12      0.583333333333333 0.416666666666667       2111    1840
+Gallus_gallus_domesticus        Bird    Galliformes     6       chicken_3       5       1       0       1       10733     680
+Giraffa_camelopardalis  Mammal  Artiodactyla    39      giraf_3 17      17      5       22      0.7727272727272730.227272727272727        3765    3920
+Gyps_fulvus     Bird    Accipitriformes 5       vultur_3        3       1       1       2       0.5     0.5     2281      2741
+Hippopotamus_amphibius  Mammal  Artiodactyla    40      hippo_3 25      14      1       15      0.9333333333333330.0666666666666667       3844    4743
+Homo_sapiens    Mammal  Primate 41      human_3a        28      11      2       13      0.846153846153846       0.153846153846154 3894    3974
+Homo_sapiens    Mammal  Primate 62      human_3b        41      18      3       21      0.857142857142857       0.142857142857143 3898    3754
+Hylobates_lar   Mammal  Primate 30      gibbon_3        22      7       1       8       0.875   0.125   6148    5837
+Larimichthys_crocea     Fish    Perciformes     2       croaker_3       0       1       1       2       0.5     0.5       9444    9662
+Larus_argentatus        Bird    Charadriiformes 11      e.gull_3a1      6       4       1       5       0.8     0.2       1253    2411
+Larus_argentatus        Bird    Charadriiformes 18      e.gull_3a2      7       8       3       11      0.727272727272727 0.272727272727273       1016    1050
+Larus_argentatus        Bird    Charadriiformes 15      e.gull_3b1      7       4       4       8       0.5     0.5       1376    2345
+Larus_argentatus        Bird    Charadriiformes 13      e.gull_3b2      5       3       5       8       0.375   0.625     1329    1228
+Larus_argentatus        Bird    Charadriiformes 7       e.gull_3c1      2       3       2       5       0.6     0.4       1009    1050
+Larus_argentatus        Bird    Charadriiformes 9       e.gull_3c2      5       3       1       4       0.75    0.25      1027    1065
+Larus_argentatus        Bird    Charadriiformes 14      e.gull_3c3      5       7       2       9       0.777777777777778 0.222222222222222       1182    2275
+Larus_marinus   Bird    Charadriiformes 15      g.gull_3b       9       4       2       6       0.6666666666666670.333333333333333        1045    949
+Larus_marinus   Bird    Charadriiformes 18      g.gull_3c       10      1       7       8       0.125   0.875   975       988
+Mandrillus_leucophaeus  Mammal  Primate 33      drill_3a        17      12      4       16      0.75    0.25    6446      6880
+Mandrillus_leucophaeus  Mammal  Primate 23      drill_3b        11      11      1       12      0.9166666666666670.0833333333333333       5894    6031
+Monodelphis_domestica   Mammal  Didelphimorphia 24      oppossum_3      16      4       4       8       0.5     0.5       5627    5517
+Moschus_berezovskii     Mammal  Artiodactyla    39      musk_3  14      20      5       25      0.8     0.2     4749      4914
+Mus_musculus    Mammal  Rodentia        20      mouse_3 12      5       3       8       0.625   0.375   5376    5399
+Neovison_vison  Mammal  Carnivora       18      mink_3  9       5       4       9       0.555555555555556       0.444444444444444 5720    5758
+Odobenus_rosmarus       Mammal  Carnivora       47      walrus_3        18      21      8       29      0.724137931034483 0.275862068965517       5683    5224
+Orcinus_orca    Mammal  Artiodactyla    52      orca_3  39      11      2       13      0.846153846153846       0.153846153846154 1699    1801
+Pan_troglodytes Mammal  Primate 47      chimp_3 31      13      3       16      0.8125  0.1875  2563    2225
+Panthera_pardus Mammal  Carnivora       35      leopard_3       29      4       2       6       0.6666666666666670.333333333333333        1987    1635
+Panthera_tigris Mammal  Carnivora       29      tiger_3 22      5       2       7       0.714285714285714       0.285714285714286 1568    1549
+Paralichthys_olivaceus  Fish    Pleuronectiformes       7       flound_3a       2       2       3       5       0.4       0.6     2619    2566
+Paralichthys_olivaceus  Fish    Pleuronectiformes       8       flound_3b       5       1       2       3       0.333333333333333 0.666666666666667       2696    2526
+Pelecanus_crispus       Bird    Pelecaniformes  19      pelican_3       14      4       1       5       0.8     0.2       467     579
+Phoenicopterus_roseus   Bird    Phoenicopteriformes     34      flaming_3       10      21      3       24      0.875     0.125   2678    2046
+Pithecia_pithecia       Mammal  Primate 38      saki_3b 28      7       3       10      0.7     0.3     4595    3780
+Pithecia_pithecia       Mammal  Primate 28      saki_3c 19      7       2       9       0.777777777777778       0.222222222222222 4413    3726
+Pithecia_pithecia       Mammal  Primate 33      saki_3d 23      6       4       10      0.6     0.4     4345    3684
+Pithecia_pithecia       Mammal  Primate 39      saki_3e 24      13      2       15      0.866666666666667       0.133333333333333 5787    4835
+Pithecia_pithecia       Mammal  Primate 35      saki_3g 21      12      2       14      0.857142857142857       0.142857142857143 4387    3558
+Platalea_ajaja  Bird    Pelecaniformes  31      spoonb_3        24      6       1       7       0.8571428571428570.142857142857143        732     3229
+Pogona_vitticeps        Reptile Squamata        35      pogona_3a       4       14      17      31      0.451612903225806 0.548387096774194       23402   23612
+Pogona_vitticeps        Reptile Squamata        40      pogona_3b       3       24      13      37      0.648648648648649 0.351351351351351       23387   23345
+Pogona_vitticeps        Reptile Squamata        16      pogona_3c       1       10      5       15      0.666666666666667 0.333333333333333       19714   19678
+Procavia_capensis       Mammal  Hyracoidea      30      hyrax_3a        27      3       0       3       1       01211     1232
+Procavia_capensis       Mammal  Hyracoidea      37      hyrax_3b        27      7       3       10      0.7     0.3       1390    1386
+Procavia_capensis       Mammal  Hyracoidea      32      hyrax_3c        24      7       1       8       0.875   0.125     1211    1270
+Pygoscelis_adeliae      Bird    Sphenisciformes 31      ad.peng_3       5       24      2       26      0.923076923076923 0.0769230769230769      2456    2425
+Rangifer_tarandus       Mammal  Artiodactyla    17      r.deer_3a       8       5       4       9       0.555555555555556 0.444444444444444       3063    3102
+Rangifer_tarandus       Mammal  Artiodactyla    26      r.deer_3b       12      8       6       14      0.571428571428571 0.428571428571429       3133    3220
+Rhea_pennata    Bird    Rheiformes      80      rhea_3  46      17      17      34      0.5     0.5     3631    4372
+Rousettus_aegyptiacus   Mammal  Chiroptera      26      bat_3a  18      5       3       8       0.625   0.375   3646      3793
+Saimiri_boliviensis_boliviensis Mammal  Primate 43      boliv2_3        19      0       4       4       0       13174     3268
+Saimiri_boliviensis_boliviensis Mammal  Primate 23      bolivian_3b     16      5       1       6       0.833333333333333 0.166666666666667       2772    2953
+Saimiri_boliviensis_boliviensis Mammal  Primate 22      bolivian_3c     33      8       2       10      0.8     0.2       3164    3148
+Salmo_salar     Fish    Salmoniformes   10      salm_3  8       1       1       2       0.5     0.5     2635    2631
+Sarcophilus_harrisii    Mammal  Dasyuromorphia  28      devil_3 27      1       0       1       1       0       1413      1360
+Saxicola_maurus Bird    Passeriformes   9       stone_3a        2       4       3       7       0.5714285714285710.428571428571429        3604    3946
+Saxicola_maurus Bird    Passeriformes   15      stone_3b        4       10      1       11      0.9090909090909090.0909090909090909       4337    4564
+Saxicola_maurus Bird    Passeriformes   9       stone_3c        2       6       1       7       0.8571428571428570.142857142857143        3738    4119
+Saxicola_maurus Bird    Passeriformes   14      stone_3d        2       11      1       12      0.9166666666666670.0833333333333333       4242    4203
+Saxicola_maurus Bird    Passeriformes   8       stone_3e        2       6       0       6       1       0       4331      4822
+Sphaerodactylus_macrolepis_inigoi       Reptile Squamata        16      big.gek_3       2       12      2       140.857142857142857       0.142857142857143       13490   12648
+Sus_scrofa      Mammal  Artiodactyla    17      pig_3a  7       7       3       10      0.7     0.3     9679    8456
+Sus_scrofa      Mammal  Artiodactyla    16      pig_3b  11      5       0       5       1       0       9666    8377
+Sus_scrofa      Mammal  Artiodactyla    13      pig_3c  5       4       4       8       0.5     0.5     8761    8450
+Sus_scrofa      Mammal  Artiodactyla    15      pig_3d  11      3       1       4       0.75    0.25    8992    7994
+Sus_scrofa      Mammal  Artiodactyla    19      pig_3e  13      4       2       6       0.666666666666667       0.333333333333333 9090    8057
+Sus_scrofa      Mammal  Artiodactyla    8       pig_3f  5       3       0       3       1       0       8561    9210
+Sus_scrofa      Mammal  Artiodactyla    13      pig_3g  10      1       2       3       0.333333333333333       0.666666666666667 8201    7907
+Syngnathus_scovelli     Fish    Syngnathiformes 3       pipef_3b        1       2       0       2       1       01957     2102
+Syngnathus_scovelli     Fish    Syngnathiformes 1       pipef_3c        0       0       1       1       0       11966     1923
+Syngnathus_scovelli     Fish    Syngnathiformes 1       pipef_3d        1       0       0       0       NaN     NaN       2078    2049
+Syngnathus_scovelli     Fish    Syngnathiformes 6       pipef_3e        1       2       3       5       0.4     0.6       2046    1950
+Syngnathus_scovelli     Fish    Syngnathiformes 2       pipef_3f        1       0       1       1       0       12005     1928
+Syngnathus_scovelli     Fish    Syngnathiformes 1       pipef_3g        0       0       1       1       0       12078     1985
+Taeniopygia_guttata     Bird    Passeriformes   9       z.finch_3c      1       8       0       8       1       02978     3390
+Taeniopygia_guttata     Bird    Passeriformes   6       z.finch_3d      0       5       1       6       0.833333333333333 0.166666666666667       2715    3160
+Tapirus_indicus Mammal  Perissodactyla  19      tapir_3 14      3       2       5       0.6     0.4     1054    1056
+Thamnophis_sirtalis     Reptile Squamata        19      g.snake_3a      3       10      6       16      0.625   0.375     29050   28618
+Thamnophis_sirtalis     Reptile Squamata        24      g.snake_3b      3       12      9       21      0.571428571428571 0.428571428571429       20079   18983
+Thamnophis_sirtalis     Reptile Squamata        27      g.snake_3c      2       12      13      25      0.48    0.52      19469   19081
+Tupaia_chinensis_belangeri      Mammal  Scandentia      21      shrew_3a        14      4       3       7       0.571428571428571 0.428571428571429       5658    5596
+Tupaia_chinensis_belangeri      Mammal  Scandentia      43      shrew_3b        23      20      0       20      105881    5725
+Tupaia_chinensis_belangeri      Mammal  Scandentia      32      shrew_3c        27      3       2       5       0.6       0.4     5418    5297
+Turdus_merula   Bird    Passeriformes   14      blackbird_3a    4       10      0       10      1       0       3548      4141
+Turdus_merula   Bird    Passeriformes   10      blackbird_3b    2       7       1       8       0.875   0.125   3536      3951
+Turdus_merula   Bird    Passeriformes   11      blackbird_3c    1       8       2       10      0.8     0.2     3524      3366
+Turdus_merula   Bird    Passeriformes   8       blackbird_3d    0       7       1       8       0.875   0.125   3423      3368
+Tursiops_truncatus      Mammal  Artiodactyla    32      dolphin_3       15      15      2       17      0.882352941176471 0.117647058823529       3523    3565
+Vicugna_pacos   Mammal  Artiodactyla    31      alpaca_3        8       17      6       23      0.7391304347826090.260869565217391        2624    2608
+Vulpes_vulpes   Mammal  Carnivora       17      fox_3   11      3       3       6       0.5     0.5     4398    4290
