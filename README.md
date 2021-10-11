@@ -17,6 +17,7 @@ The raw sequences can be found on NCBI under the project number PRJNA767781.
 
  - samtools 1.2
  - bcftools 1.2
+ - bcftools 1.9
  - R 3.5.1
  - IQTREE
  - Phyluce
