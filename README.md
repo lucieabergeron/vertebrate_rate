@@ -13,6 +13,7 @@ The raw sequences can be found on NCBI under the project number PRJNA767781.
 1. phylogeny contains the analysis conducted to create the UCE phylogeny and to calibrate the tree.
 2. mutations_analysis contains the script to analysis the DNM characteristics such as the mutational spectrum, the sex bias or the impact of the parental ages.
 3. other_analyses contains the analyses for heterosigosity, nucleotide diversity and effective population size.
+4. correlation contains the script to test the different life-history traits.
 
 # Requirements
 
